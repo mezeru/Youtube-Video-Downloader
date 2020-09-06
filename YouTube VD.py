@@ -41,7 +41,7 @@ if __name__=='__main__':
                 else:
                     print("Download Has Been Canceled")    
     except:
-        print("Check Your Internet Connection or Check the Link and try Again")
+        print("Check Your Internet Connection or availability of the video or Check the Link and try Again")
     
        
 
